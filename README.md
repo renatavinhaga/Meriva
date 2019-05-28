@@ -1,2 +1,2 @@
 # Meriva
-From here to Pixar
+Repository for extra topics in computer graphics and simulation
